@@ -1,6 +1,6 @@
 # Links
 ---
-## Study note 
+## `< Study note >`
 ### 高度情報処理試験：データベーススペシャリスト
 * [第１章：学習](./2020-01-10_19-51_高度DBS学習_1章.md)
 ### Pepperパートナーシッププログラム
@@ -8,7 +8,8 @@
 * [過去問](./2019-03-24_00-44_Pepper/過去問題.md)
 
 ---
-## Seminar note
+## `< Seminar note >`
+### IT conference
 * [2019/06:ZOZOテクノロジーMeetUp](2019-06-19_19-44_ZOZOテクノロジー.md)
 * [2019/09:LaravelConference](2019-05-22_20-10_LaravelConference.md)
 
