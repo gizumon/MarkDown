@@ -11,8 +11,11 @@
 * [2019/03:過去問](./2019-03-24_00-44_Pepper/過去問題.md)
 
 ---
-## 【 Seminar Note 】
-### IT conference
+## 【 Information Technology Note 】
+### Books
+* [2020/01:Webを支える技術](2020-01-14_23-07_Webを支える技術.md)
+
+### Seminar
 * [2019/06:ZOZOテクノロジーMeetUp](2019-06-19_19-44_ZOZOテクノロジー.md)
 * [2019/09:LaravelConference](2019-05-22_20-10_LaravelConference.md)
 
