@@ -21,5 +21,6 @@ tag:
   * 世界TOPシェアのCRM(Customer Relationship Management)ソフトウェア
     * お客様の情報を管理するグループ = `CRM`
   * force.com => lightning platform
-  * Salesforce全体のイメージ
-    ![SalesforceImage](https://gizumon.github.io/MarkDown/images/研修/SalesforceImage.PNG)
+  * Salesforce全体のイメージ  
+    ![SalesforceImage](https://gizumon.github.io/MarkDown/images/研修/SalesforceImage.PNG)  
+  * 
