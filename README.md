@@ -23,6 +23,9 @@
 * [2019/09:LaravelConference](2019-05-22_20-10_LaravelConference.md)
 * [~~2020/01:Salesforceアプリケーションビルダー基礎~~](2020-01-21_09-32_SalesforcePlatformアプリケーションビルダー基礎.htmlX)
 
+### Study-memo
+* [2020/02:サーバーアーキテクチャ調査](2020-02-17-17-20_サーバー選定.md)
+
 ---
 ## 【 Stock Note 】
 ### Books
