@@ -12,7 +12,7 @@
 
 ### ビジネス・教養
 * [2020/01:大人の教養](./2020-01-16_01-10_大人の教養.md)
-* [2020/02:FACTFULLNESS](./2020-02-29_factfullness.md)
+* [2020/02:FACTFULLNESS](./2020-02-29_FACTFULLNESS.md)
 
 ---
 ## 【 Information Technology Note 】
@@ -23,9 +23,6 @@
 * [2019/06:ZOZOテクノロジーMeetUp](2019-06-19_19-44_ZOZOテクノロジー.md)
 * [2019/09:LaravelConference](2019-05-22_20-10_LaravelConference.md)
 * [~~2020/01:Salesforceアプリケーションビルダー基礎~~](2020-01-21_09-32_SalesforcePlatformアプリケーションビルダー基礎.htmlX)
-
-### Study-memo
-* [2020/02:サーバーアーキテクチャ調査](2020-02-17-17-20_サーバー選定.md)
 
 ---
 ## 【 Stock Note 】
