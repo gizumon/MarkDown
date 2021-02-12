@@ -28,6 +28,9 @@
 * [2020/07:サーバーレスアンチパターン今昔物語](2020-07-09_21-13_サーバーレスアンチパターン.md)
 * [2020/07:Flutter_meetup](2020-07-14_19-43_Flutter_meetup.md)
 
+### Research
+* [2021-02:NoSQLデータベース系トレンド調査](2021-02-10_11-45_ElasticSearch調査.md)
+
 ---
 ## 【 Stock Note 】
 ### Books
@@ -44,3 +47,9 @@
 # Other
 ## 【 Web Sites 】
 * [Otokogi-App](https://otokogi-ef428.web.app/#/)
+  * ジャンケン管理アプリケーション
+* [Pepup-automation-tool](https://pepup-automation-gui.herokuapp.com/)
+  * 自動登録アプリケーション
+  * 動的ページのスクレイピングAPI
+* [PosMapp](https://posmapp-8a86e.web.app/login)
+  * ポジショニングマップアプリケーション
